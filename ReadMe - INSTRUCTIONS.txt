@@ -3,7 +3,7 @@ Hector Fierro
 Completed this short programming assignment:
 https://homework.adhoc.team/slcsp/
 
-Submitting code written in the Jave language as we agreed.
+Submitting code written in the Java language as we agreed.
 
 Development environment:
 IDE: IntelliJ IDEA 2019.1.2 (Community Edition)
@@ -105,7 +105,8 @@ zipcode,rate (slcsp)
 Added slcsp_full.csv with additional columns to reference the State and Area Rate for each ZipCode and rate.
 
 Shared my code via a publicly accessible Git repository.
-Github.com hectorf2025/SecondLowestCost
+Github.com 
+https://github.com/hectorf2025/SecondLowestCost
 
 
 
